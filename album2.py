@@ -5,4 +5,4 @@ for name, info in album.items():
     print("\nName:", info)
 
     for key in info:
-        print (key + ':', info[key])
+        print (key + ':', info)
