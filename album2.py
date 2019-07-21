@@ -1,3 +1,3 @@
-album = {"Orchid" : 1995 , "Morningrise" : 1996}
-for n, y in album.items():
-    print(n, y)
+album = {"Orchid" : 1995 : "8 songs", "Morningrise" : 1996 : "6 songs"}
+for n, y, s in album.items():
+    print(n, y, s)
