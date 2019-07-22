@@ -3,4 +3,5 @@ a = {
     'year': 1995,
     'tracks': '8 tracks'
 }
-print(a)
+for x, y, z in a.items():
+    print(x, y, z)
