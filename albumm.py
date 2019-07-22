@@ -1,4 +1,7 @@
-a = album ([
-    ('Orchid': '1995': '8 songs'),
-    ('Morningrise': '1996': '6 songs')
-])
+a = {
+    'name': 'Orchid',
+    'year': 1995,
+    'tracks': '8 tracks'
+    'length': '1 hr 11 min'
+}
+print(a)
