@@ -1,6 +1,6 @@
 a = {
     'name': 'Orchid',
-    'year': 1995,
+    'year': '1995',
     'tracks': '8 tracks'
 }
 for x, y, z in a.items():
