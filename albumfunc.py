@@ -3,7 +3,7 @@ def album( name, year, tracks, length ):
     print ("Year: ", year)
     print ("Tracks: ", tracks)
     print ("Length: ", length)
-    print ("________")
+    print ("__________________")
     return;
 
 album( 'Orchid', '1995', '8 tracks', '1 hr 11 min')
